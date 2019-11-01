@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "909201224502",
+    "firebase_url": "https://phsar-somnong.firebaseio.com",
+    "project_id": "phsar-somnong",
+    "storage_bucket": "phsar-somnong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909201224502:android:0eda9d5dacd4323a157997",
+        "android_client_info": {
+          "package_name": "com.visa.flutterkickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909201224502-d63eop1tibprqeok5golfvr1okp8l8oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visa.flutterkickstart",
+            "certificate_hash": "14c5aded2692244668a8d13ce7dafba1398c8205"
+          }
+        },
+        {
+          "client_id": "909201224502-ujjv7g60p0obhd4dikk5so7an2it3jud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visa.flutterkickstart",
+            "certificate_hash": "2aa2e837c01ad0dd3e948c4e7c17375916bbb1a3"
+          }
+        },
+        {
+          "client_id": "909201224502-ehuj2j3euhl2p2kqbj4rdt9ivgpmd7fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visa.flutterkickstart",
+            "certificate_hash": "fae47b09bd8de32921feb4f60f61c24fabb09312"
+          }
+        },
+        {
+          "client_id": "909201224502-sjhs78caidhvr4nm27mj7ceht6sl2mg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visa.flutterkickstart",
+            "certificate_hash": "eaf9b5b07811998d7514d037e36e98c575bd98a6"
+          }
+        },
+        {
+          "client_id": "909201224502-vlm3kad4mo76mp5mfh42tet9m5484b4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visa.flutterkickstart",
+            "certificate_hash": "06683d4a3febacf2a19f70bb477167bfd5266a45"
+          }
+        },
+        {
+          "client_id": "909201224502-cudvm34fpoogpt26595gvf36jej6oj64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOrqZ3EhyXVeM1D1JhehXN6U-rhk9lqEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909201224502-sl3m6d8gsjmjd9h6i7c700ns72umatgd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909201224502-hleqr6fm368a225h1f3tl5jvpkdovl7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.phsarsamnong.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

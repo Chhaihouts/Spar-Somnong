@@ -1,0 +1,66 @@
+{
+  "category" : "今天ប្រភេទ",
+  "more" : "今天ច្រើនទៀត",
+
+  "position_": "今天មុខតំណែង *",
+  "sign_Up": "今天ចុះឈ្មោះ",
+  "please_upload": "今天សូមបញ្ចូលរូបភាពរបស់អ្នក",
+  "username_": "今天ឈ្មោះអ្នកប្រើប្រាស់ *",
+  "phone_number_": "今天លេខទូរសព្ *",
+  "email": "今天អ៊ីមែល",
+
+  "sign_in": "今天ចុះឈ្មោះ",
+  "sign_out": "今天ចាកចេញ",
+
+  "welcome": "今天Welcome",
+  "type_to_search": "今天Type to search",
+
+  "quantity": "今天Quantity",
+  "variation" : "今天Variation",
+  "price": "今天Price",
+  "order": "今天Order",
+  "result": "今天Product",
+
+  "product_name": "今天Product name",
+  "description" : "今天Description",
+  "for_plastering": "今天For Plastering",
+  "specification": "今天Specification",
+  "price_list": "今天Price Lists",
+  "contact_information": "今天Contact information",
+  "related_product": "今天Favourite product",
+
+  "sign_in_to_con": "今天Sign In to continues",
+  "items": "今天items",
+
+  "invalid_code" : "今天Invalid Code.",
+  "invalid_phone_number": "今天Invalid Phone Number",
+  "no_internet_connection": "今天No Internet Connection",
+  "phone_number": "今天Phone number",
+  "verification_code": "今天Verification Code",
+
+  "edit_profile": "今天Edit Profile",
+  "favorites": "今天Favorites",
+  "log_out": "今天Log out",
+  "save": "今天Save",
+  "name_must_be_more_than": "今天Name must be more than 2 character",
+  "please_choose_position":"Please choose position.",
+  "enter_valid_email": "今天Enter Valid Email",
+
+  "type_something": "今天Type Something...",
+  "all_categories": "今天All Categories",
+  "something_went_wrong": "今天Something went wrong.",
+  "getting_data_so_long": "今天Getting data so long",
+  "detail": "今天Detail",
+  "please_check_something": "今天Please check something before login.",
+  "try_again": "今天Try again",
+  "search": "今天Search",
+  "please_choose_your_profile": "今天Please choose your profile picture.",
+
+  "error_getting_data": "今天Error getting data",
+  "do_you_want_to_remove": "今天Do you want to remove?",
+  "cancel": "今天Cancel",
+  "remove": "今天Remove",
+  "this_product_has_already_added" : "今天This product have already added",
+  "this_product_have_added_to_favourite_list": "今天This product has added to favourite list"
+
+}

@@ -1,0 +1,6 @@
+framework module flutter_splash_screen {
+  umbrella header "flutter_splash_screen-umbrella.h"
+
+  export *
+  module * { export * }
+}
